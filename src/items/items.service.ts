@@ -15,7 +15,7 @@ let items: Items = {
     id: 1,
     name: "Burger",
     price: 299,
-    description: "Tasty",
+    description: "Very Tasty",
     image: "https://cdn.auth0.com/blog/whatabyte/burger-sm.png"
   },
   2: {
