@@ -1,5 +1,5 @@
 node_modules/
 lib/
-/.vs/ProjectSettings.json
-/.vs/slnx.sqlite
 /.vs/menu-api/config
+/.vs/menu-api/v16/.suo
+/.vs
