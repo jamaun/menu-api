@@ -1,2 +1,5 @@
 node_modules/
 lib/
+/.vs/menu-api/config
+/.vs/menu-api/v16/.suo
+/.vs
